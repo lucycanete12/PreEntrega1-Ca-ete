@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "price": 55900,
+        "category": "Nintendo Switch",
+        "thumbnail": [ 
+            "https://d2r9epyceweg5n.cloudfront.net/stores/113/368/products/botw_switch1-15fda35edc11034f1e14891979092964-640-0.png"
+        ],
+        "stock": 4,
+        "description": "The Legend of Zelda: Breath of the Wild-Nintendo Switch",
+        "status": true,
+        "code": "EP001"
+    },
+    {
+        "id": 2,
+        "title": "Animal Crossing: New Horizon",
+        "price": 51800,
+        "category": "Nintendo Switch",
+        "thumbnail": [
+            "https://d2r9epyceweg5n.cloudfront.net/stores/113/368/products/acnhsw1-f4b52773792160b8d915852349945441-640-0.png"
+        ],
+        "stock": 9,
+        "description": "Animal Crossing: New Horizon-Nintendo Switch",
+        "status": true,
+        "code":"EP002"
+        
+    },
+    {
+        "id": 3,
+        "title": "Amiibo Kirby Planet Robobot-Kirby",
+        "price": 12500,
+        "category": "Amiibo",
+        "thumbnail": [
+            "https://d2r9epyceweg5n.cloudfront.net/stores/113/368/products/amiibokkirby1-1f0cee2aa725db171614661204763745-640-0.png"
+        ],
+        "stock": 5,
+        "description": "Amiibo Kirby Planet Robobot-Kirby",
+        "status": true,
+        "code": "EP003"
+    },
+    {
+        "id": 4,
+        "title": "Final Fntasy VIII Remastered-PS4",
+        "price": 999,
+        "category": "Playstation",
+        "thumbnail": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnewlevel.com.ar%2Fproduct%2Ffinal-fantasy-viii-remastered-ps4-2%2F&psig=AOvVaw0XNIcbla4eaTiYtVJXFO-H&ust=1692743139363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOijr-Ll7oADFQAAAAAdAAAAABAE"
+        ],
+        "stock": 10,
+        "description": "Final Fantasy VIII Remastered Playstation 4",
+        "status": true,
+        "code": "EP004"
+    },
+    {
+        "id": 5,
+        "title": "Sony Playstation 5",
+        "price": 614115,
+        "category": "Consolas",
+        "thumbnail": [
+            "https://arsonyb2c.vtexassets.com/arquivos/ids/362074-1600-auto?v=638162215101070000&width=1600&height=auto&aspect=true"
+        ],
+        "stock": 6,
+        "description": "Consola  Sony Standar Playstation 5 852GB",
+        "status": true,
+        "code": "EP005"
+    },
+    {
+        "id": 6,
+        "title": "Nintendo Switch Lite-Coral ",
+        "price": 319000,
+        "category": "Consolas",
+        "thumbnail": [
+            "https://d2r9epyceweg5n.cloudfront.net/stores/113/368/products/switchlitecoral11-9c4b0c7cb33ebf318a15898261989275-640-0.png"
+        ],
+        "stock": 11,
+        "description": "Consola Nintendo Switch Lite Coral",
+        "status": true,
+        "code": "EP006"
+    },
+    {
+        "id": 7,
+        "title": "Kingdom Hearts: Sora Nendoroid",
+        "price": 130900,
+        "category": "Figuras de accion",
+        "thumbnail": [
+            "https://d2r9epyceweg5n.cloudfront.net/stores/113/368/products/nendosora11-8a8b2476c0a1f433cc15527670195129-640-0.png"
+        ],
+        "stock": 2,
+        "description": "Good Smile Kingdom Hearts: Sora Nendoroid Action Figure",
+        "status": true,
+        "code": "EP007"
+    },
+    {
+        "id": 8,
+        "title": "Figura Zelda Breath of the Wild",
+        "price": 20700,
+        "category": "Figuras de accion",
+        "thumbnail": [
+            "https://www.falabella.com/falabella-cl/product/115459937/Figura-Zelda-Breath-of-The-Wild-Zelda-Dark-Horse/115459938"
+        ],
+        "stock": 12,
+        "description": "Figura de accion Zelda Breath of the Wild- Zelda Dark Horse",
+        "status": true,
+        "code": "EP008"
+    },
+    {
+        "id": 9,
+        "title": "Resident Evil 2 Remake Delux Edition-PS4",
+        "price": 79045,
+        "category": "Playstation",
+        "thumbnail": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fresidentevil.fandom.com%2Fes%2Fwiki%2FResident_Evil_2%3A_Deluxe_Edition&psig=AOvVaw1wYhaxONmpCq13Um1lCqjV&ust=1692745199794000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDasbjt7oADFQAAAAAdAAAAABAE"
+        ],
+        "stock": 7,
+        "description": "Resident Evil 2 Remake Delux Edition-Playstation 4",
+        "status": true,
+        "code": "EP009"
+    },
+    {
+        "id": 10,
+        "title": "Haikyu: Shoyo Hinata Nendoroid",
+        "price": 112900,
+        "category": "Figuras de accion",
+        "thumbnail": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2FGood-Smile-Company-G44535-Nendoroid%2Fdp%2FB00O2TLP90&psig=AOvVaw0ywhVKzo5whDp0ZS_b4h6Y&ust=1692745646582000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODJ6ozv7oADFQAAAAAdAAAAABAE"
+        ],
+        "stock": 9,
+        "description": "Good Smile Haikyu: Shoyo Hinata Nendoroid Action Figure",
+        "status": true,
+        "code": "EP010"
+    },
+    {
+        "id": 11,
+        "title": "Nintendo Switch-Animal Crossing New Horizons",
+        "price": 569900,
+        "category": "Epecial Editions",
+        "thumbnail": [
+            "https://d2r9epyceweg5n.cloudfront.net/stores/113/368/products/switchacjapan11-c70288f93e23645ec315975068548086-640-0.png"
+        ],
+        "stock": 3,
+        "description": "Consola Nintendo Switch Animal Crossing New Horizons",
+        "status": true,
+        "code": "EP011"
+    },
+    {
+        "id": 12,
+        "title": "Sony Playstation 4 God of War Ragnarok",
+        "price": 130900,
+        "category": "Consolas",
+        "thumbnail": [
+            "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stylestore.com.ar%2Fplaystation-ps4-ps435159%2Fp&psig=AOvVaw1Nx2z8_qmvzgtnd_08M92X&ust=1692746150058000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiFsf3w7oADFQAAAAAdAAAAABAE"
+        ],
+        "stock":8,
+        "description": "Consola Sony Playstation 4 God of War Ragnarok Edition",
+        "status": true,
+        "code": "EP012"
+    }
+]
